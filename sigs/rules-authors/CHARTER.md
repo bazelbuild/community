@@ -19,8 +19,6 @@ Criteria for new members is still under discussion: <https://github.com/bazel-co
 The SIG is funded by companies that rely on the community-maintained rulesets.
 We need your support to continue providing the software you depend on!
 
-> As of November 2021, Google is _not_ a funder of the SIG.
-
 Companies can contribute in several ways:
 
 - _Intellectual property_: Upstream fixes and features your organization has made. Donate proprietary rulesets developed in-house.
@@ -51,7 +49,6 @@ The GitHub repo containing governance and administration:
 <https://github.com/bazel-contrib/SIG-rules-authors>
 
 This SIG was originally proposed here: <https://github.com/bazelbuild/proposals/blob/main/designs/2021-08-10-rules-authors-sig.md>
-This document includes some potential activities of the SIG.
 
 ## Contacts
 
