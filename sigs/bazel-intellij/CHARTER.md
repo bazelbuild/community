@@ -38,4 +38,4 @@ This SIG is open to anybody who uses, develops, or has an interest in sharing or
 
 ## Code of Conduct
 
-As with all forums and spaces related to Bazel, the Bazel-IntelliJ IDE plug-in SIG is subject to the [Bazel Code of Conduct (https://github.com/bazelbuild/bazel/blob/HEAD/CODE_OF_CONDUCT.md).
+As with all forums and spaces related to Bazel, the Bazel-IntelliJ IDE plug-in SIG is subject to the [Bazel Code of Conduct](https://github.com/bazelbuild/bazel/blob/HEAD/CODE_OF_CONDUCT.md)
