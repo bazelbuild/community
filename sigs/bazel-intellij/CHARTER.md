@@ -15,15 +15,15 @@ This SIG has the objective of enabling community collaboration and contribution 
 * Provide a platform for users and developers to regularly share knowledge and learn from each other
 * Connect and foster engagements across various engineering teams.
 
-The SIG will meet once a month.  Members can log issues / topics of interest in [bazel-intellij@googlegroups.com](https://groups.google.com/g/bazel-intellij).
+The SIG will meet once a month.  Members can log issues / topics of interest in [intellij-bazel-plugin@googlegroups.com](https://groups.google.com/g/intellij-bazel-plugin).
 
 ## Membership
 
-This SIG is open to anybody who uses, develops, or has an interest in sharing or absorbing knowledge on Bazel and the IntelliJ IDE plug-in. Please join [bazel-intellij@googlegroups.com](https://groups.google.com/g/bazel-intellij) and share with interested colleagues.
+This SIG is open to anybody who uses, develops, or has an interest in sharing or absorbing knowledge on Bazel and the IntelliJ IDE plug-in. Please join [intellij-bazel-plugin@googlegroups.com](https://groups.google.com/g/intellij-bazel-plugin) and share with interested colleagues.
 
 ## Resources
 
-* [bazel-intellij@googlegroups.com](https://groups.google.com/g/bazel-intellij)
+* [intellij-bazel-plugin@googlegroups.com](https://groups.google.com/g/intellij-bazel-plugin)
 * [Bazel’s Slack workspace](https://join.slack.com/t/bazelbuild/shared_invite/zt-12qiikgw6-qYqQMtD3aFxLQrA_77xV5Q)
   * [#ide](https://app.slack.com/client/TA4K1KQ87/CHSV3RSR0/thread/C025SBYFC4E-1649293011.703499) and [#intellij](https://app.slack.com/client/TA4K1KQ87/C025SBYFC4E/thread/C025SBYFC4E-1649293011.703499) channels
 * [Project on GitHub](https://github.com/bazelbuild/intellij)
