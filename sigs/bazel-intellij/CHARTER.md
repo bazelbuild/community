@@ -36,6 +36,8 @@ This SIG is open to anybody who uses, develops, or has an interest in sharing or
 * messa@google.com
 * justin.kaeser@jetbrains.com
 * tomasz.pasternak@jetbrains.com
+* andrzej.głuszak@jetbrains.com
+* mildag@wix.com
 * rotemm@wix.com
 * vaidasp@wix.com
 * blorente@apple.com
