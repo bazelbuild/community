@@ -41,7 +41,6 @@ This SIG is open to anybody who uses, develops, or has an interest in sharing or
 * rotemm@wix.com
 * vaidasp@wix.com
 * blorente@apple.com
-* haiming@uber.com
 
 ## Code of Conduct
 
