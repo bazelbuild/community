@@ -1,1 +1,8 @@
-placeholder until first SIG subdir has been created
+## Bazel Special Interest Groups (SIGs)
+The Bazel project hosts two formally defined Special Interest Groups. Their charters with additional 
+information can be found in the respective subdirectories. The maintainers of the SIGs are responsible 
+for the freshness and completeness of their charters.
+
+## SIGs
+* SIG Rules Authors
+* Bazel IntelliJ IDE plug-in Special Interest Group
