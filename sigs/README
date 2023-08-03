@@ -1,1 +1,6 @@
-placeholder until first SIG subdir has been created
+This repository is the home of Bazel's Special Interest Groups:
+
+- Rules Authors: [Charter](./sigs/rules-authors/CHARTER.md)
+- IntelliJ: [Charter](./sigs/bazel-intellij/CHARTER.md)
+
+See <https://bazel.build/community/sig> for more information.
